@@ -1,0 +1,21 @@
+.container{
+background-color: antiquewhite;
+color: rebeccapurple;
+justify-content: center;
+align-content: center;
+width:  fit-content;
+}
+
+button{
+   
+    width: 80px;
+    padding: 10px;
+    background-color: tomato;
+    color:white;
+    border: 1px solid #f1f1f1;
+}
+
+button:hover{
+    background-color: white;
+    color:tomato
+}
